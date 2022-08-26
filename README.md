@@ -1,5 +1,5 @@
 ### Hi there, This is Amir!
-I am a AWS Certified solution architect with experience in Cloud Native applications. Specialized in developing CI/CD pipelines with tools like AWS CloudFormation, CircleCI, Jenkins and Ansible. I am proficient in Python and PHP.
+I am an AWS Certified solution architect with experience in Cloud Native applications. Specialized in developing CI/CD pipelines with tools like AWS CloudFormation, CircleCI, Jenkins and Ansible. I am proficient in Python and PHP.
 <br>
 <br>
 <div align="center">
