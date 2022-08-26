@@ -8,9 +8,16 @@ I am an AWS Certified solution architect with experience in Cloud Native applica
   </a>
 </div>
 <br>
-🌱 I’m currently learning about containers and k8s.
+🌱 I’m currently learning about containers and k8s by attending <a href="https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/"> Docker and Kubernetes</a> on Udemy.
+<br>
+<br>
+<div align="center">
+  <a href="https://www.credly.com/badges/e9623637-b6f2-49da-aebe-f79f9d493013/public_url">
+    <img alt="Amir Sabzehparvar Solution Architect Badge" src="https://user-images.githubusercontent.com/41754595/186949555-26305ed8-abfd-476b-9dac-69747a3dee5c.png" 
+         width="100" height="100">
+  </a>
+</div>
 
-📫 How to reach me: you can reach me on my <a href="https://www.linkedin.com/in/amirsabzehparvar">LinkedIn</a> account
 
 <!--
 **amirali1690/amirali1690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
