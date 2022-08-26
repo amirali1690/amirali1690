@@ -1,7 +1,7 @@
 ### Hi there, I am Amir 👋
 I am a AWS Certified solution architect with experience in Cloud Native applications. Specialized in developing CI/CD pipelines with tools like AWS CloudFormation, CircleCI, Jenkins and Ansible. I am proficient in Python and PHP.
 <div style="text-align: center">
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/amirsabzehparvar)
+<a href="https://www.linkedin.com/in/amirsabzehparvar"><img="https://i.stack.imgur.com/gVE0j.png"/>LinkedIn</a>
 </div>
 <!--
 **amirali1690/amirali1690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
